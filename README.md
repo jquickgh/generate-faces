@@ -1,6 +1,6 @@
 # Deep Learning Engineer Nanodegree
 
-### [Generate Faces (GAN)](https://github.com/jquickgh/generate-faces-gan)
-- **Deep Learning (Supervised): Computer Vision, Classification**
-- **Topics:** TensorFlow, Convolutional Neural Network (CNN)
-<img src="https://github.com/jquickgh/generate-faces/blob/master/generate-faces.jpg" width="600"> 
+### [Generate Faces](https://github.com/jquickgh/generate-faces/blob/master/dlnd_face_generation.ipynb)
+- **Deep Learning (Supervised): Computer Vision, Generative**
+- **Topics:** TensorFlow, Generative Adversarial Network (GAN)
+<img src="https://github.com/jquickgh/generate-faces-gan/blob/master/generate-faces.jpg" width="600"> 
